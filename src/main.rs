@@ -1,6 +1,6 @@
 use wallpaper;
 
-const URL: &str = "http://71.72.237.156/breakingbad";
+const URL: &str = "http://ethix.tplinkdns.net/breakingbad";
 
 fn main() {
     wallpaper::set_from_url(URL).unwrap();
